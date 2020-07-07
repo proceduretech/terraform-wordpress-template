@@ -1,0 +1,6 @@
+.terraform/
+*.tfvars
+.DS_Store
+key
+key.pub
+*.tfstate*
