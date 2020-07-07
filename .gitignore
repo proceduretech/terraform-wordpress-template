@@ -1,5 +1,5 @@
 .terraform/
-*.tfvars
+*terraform.tfvars
 .DS_Store
 key
 key.pub
